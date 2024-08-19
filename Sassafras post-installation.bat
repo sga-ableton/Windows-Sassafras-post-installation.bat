@@ -2,7 +2,7 @@
 
 
 :: Set EDITION and VERSION to match the Live version you are using
-Set "EDITION=Live 12 Intro"
+Set "EDITION=Live 12 Suite"
 Set "VERSION=12.0.20"
 
 :: ------No further configuration below this line ----------------------------------------------------
